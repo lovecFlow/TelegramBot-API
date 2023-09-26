@@ -1,0 +1,6 @@
+env: "local" #* local, dev, prod
+storage_path: "./storage/storage.db" #*Сторейдж БД 
+http_server: 
+  adress: "localhost:8082"
+  timeout: 4s #* Время на чтение и отправку запроса
+  idle_timeout: 60s #* 

@@ -1,6 +1,6 @@
 package main
 
-import "config"
+import "telegrambot-api/internal/config"
 
 func main() {
 	//TODO init config: cleanenv
